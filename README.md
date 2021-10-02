@@ -1,6 +1,15 @@
 # NameSilo-DDNS-vb6
 Update dns record in vb6.0
 
+Usage:
+
+1. Edit config.ini
+
+2. Run it!
+ 
+
+
+
 You can get your APIKey in https://www.namesilo.com/account/api-manager
 
 if "Run-time error '-2147012739 (80072f7d)'" then
